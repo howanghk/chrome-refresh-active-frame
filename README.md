@@ -1,10 +1,10 @@
 Refresh Active Frame
 ====================
-This extension let you refresh a frame with keyborad shoutcut (Cmd+Ctrl+R on Mac, Alt+Shift+R otherwise), if no frame is active it will fallback to refresh the whole page.
+This extension let you refresh a frame with keyboard shortcut (Cmd+Ctrl+R on Mac, Alt+Shift+R otherwise), if no frame is active it will fallback to refresh the whole page.
 
 Install
 -------
-[![available in the chrome web store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/refresh-active-frame/imcfppeifknphfhaibbbidhnjecmfohi)
+[![available in the chrome web store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/refresh-active-frame/imcfppeifknphfhaibbbidhnjecmfohi)
 
 Manual Install
 --------------
@@ -17,7 +17,7 @@ Manual Install
 
 License
 -------
-Copyright (c) 2015 howang &lt;howanghk at gmail dot com&gt;
+Copyright (c) 2015-2022 howanghk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
